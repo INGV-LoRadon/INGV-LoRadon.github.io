@@ -1,9 +1,27 @@
 # INGV-LoRadon :: Volcano 🌋 Radon ☢️ Monitoring
 
-![](ingv_logo_banner.png)
+LoRadon is a **low-cost, LoRaWAN-based radon monitoring system** developed at INGV for deployment on Mount Etna and other volcanic areas.
+It combines **pulse-counting sensors**, **embedded systems**, and a **LoRaWAN backend** to provide real-time monitoring as an alternative to traditional high-cost stations.
 
-🚧🚧🚧 Coming soon 🚧🚧🚧
 
-![](images/etna-station-001.jpg)
-![](images/etna-001.jpg)
-![](images/etna-002.jpg)
+---
+
+## 📂 Repository Structure
+
+* **Doc/** → Documentation, user manuals, TTN LoRaWAN setup, hardware references (Wyres Base, RAK3172)
+* **Firmware/** → Endpoint firmware (RAK3172, Wyres Base with RIOT OS) for LoRaWAN transmission
+* **Backend/** → Data processing & dashboards (Grafana, NodeRED, InfluxDB), with Docker configuration and deployment scripts
+
+---
+
+## 🌐 Backend Access
+
+* **Grafana**: [loradon.oe.ingv.it](https://loradon.oe.ingv.it)
+* **NodeRED**: [loradon-n.oe.ingv.it](https://loradon-n.oe.ingv.it)
+* **ThingsBoard**: [loradon-t.oe.ingv.it](https://loradon-t.oe.ingv.it)
+
+---
+
+## 👥 Contributors
+
+Work in progress – see `/Doc` for details.
