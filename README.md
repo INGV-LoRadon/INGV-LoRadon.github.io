@@ -1,3 +1,5 @@
+![](ingv_logo_banner.png)
+
 # INGV-LoRadon :: Volcano 🌋 Radon ☢️ Monitoring
 
 LoRadon is a **low-cost, LoRaWAN-based radon monitoring system** developed at INGV for deployment on Mount Etna and other volcanic areas.
