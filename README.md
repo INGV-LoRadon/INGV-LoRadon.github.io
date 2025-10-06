@@ -5,7 +5,7 @@
 LoRadon is a **low-cost, LoRaWAN-based radon monitoring system** developed at INGV for deployment on Mount Etna and other volcanic areas.
 It combines **pulse-counting sensors**, **embedded systems**, and a **LoRaWAN backend** to provide real-time monitoring as an alternative to traditional high-cost stations.
 
-![ERN4 Radon station](https://github.com/INGV-LoRadon/INGV-LoRadon.github.io/blob/eb150b909dfbbb51c82e5e5955e33d3a1282a4ba/images/20250410_130656%20(1).jpg)
+![ERN4 Radon station](images/radon_station.jpg)
 ---
 
 ## 📂 Repository Structure
